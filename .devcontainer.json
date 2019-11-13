@@ -2,6 +2,6 @@
     "name": "VS Online Quickstart Sample",
     "extensions": [
         "dbaeumer.vscode-eslint"
-    ]
+    ],
     "devPort": 4321
 }
