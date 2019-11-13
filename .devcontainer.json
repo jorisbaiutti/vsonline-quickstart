@@ -3,4 +3,5 @@
     "extensions": [
         "dbaeumer.vscode-eslint"
     ]
+    "devPort": 4321
 }
